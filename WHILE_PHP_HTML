@@ -1,0 +1,10 @@
+<?php while($data=){?>
+<tr>
+<td></td>;
+<td></td>;
+<td></td>;
+<td><input type='submit' name='delete' value="DELETE" class='btn btn-danger'></td>
+<td><a href="" class="btn btn-info">EDIT</a></td>
+
+</tr>
+<?php } ?>
